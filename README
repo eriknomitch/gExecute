@@ -1,3 +1,6 @@
+DISCLAIMER:
+I really only worked on this a long time ago until it worked okay for me... if I have some time I'll actually make it halfway decent one day.  If you want to bug me about it you can: enomitch@gmail.com if anyone actually uses it.
+
 Dependencies:
     - gtk2.0 development libraries
     - libconfig++
