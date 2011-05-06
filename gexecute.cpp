@@ -1,8 +1,3 @@
-
-// DISCLAIMER: I really only worked on this until it worked okay for me.... 
-// if I have some time I'll actually make it halfway descent one day
-// if you want to bug me about it you can: enomitch@gmail.com if anyone actually uses it
-
 #include <string>
 #include <gtk/gtk.h>
 #include <gdk/gdkkeysyms.h>
