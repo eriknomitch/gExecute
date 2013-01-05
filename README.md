@@ -15,4 +15,3 @@ Usage
 ==
   * To make gExecute actually useful, a shortcut should be added to your window manager that links to the 'gexecute' binary
   * ~/.gexecuterc will also have to be made and configured, a sample is provided 
-
